@@ -64,7 +64,7 @@ Atliq Technologies is a software and data solutions company with:
 | `HR_Analytics_Atliq.pbix` | Power BI dashboard file |
 | `dashboard_screenshot.png` | Project dashboard image |
 | `Data Analyst Project (HR Analytics).pdf` | Project scope and background |
-| `.gitignore` | Git ignore rules |
+
 
 ---
 
@@ -72,9 +72,7 @@ Atliq Technologies is a software and data solutions company with:
 
 For feedback, collaboration, or freelance work, feel free to reach out:
 
-- 📧 Email: [YourEmail@example.com]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🌐 Portfolio: [Your Portfolio Link]
+- 📧 Email: [uddhavkokra1718@gmail.com]
 
 ---
 
@@ -82,9 +80,5 @@ For feedback, collaboration, or freelance work, feel free to reach out:
 
 > *"Turning data into people-centric decisions with visual insights!"*
 
----
 
-## 📎 Related Keywords (for visibility)
-
-`Power BI`, `HR Analytics`, `Dashboard`, `Data Cleaning`, `Work From Home`, `Attendance`, `Sick Leave`, `Atliq Technologies`, `Interactive Reports`, `DAX`, `Power Query`
 
