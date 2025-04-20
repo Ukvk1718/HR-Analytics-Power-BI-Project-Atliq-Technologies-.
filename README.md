@@ -2,8 +2,6 @@
 
 This project is a part of my portfolio to showcase data transformation, visualization, and dashboard design skills using Power BI. The goal was to build a fully automated, interactive HR analytics dashboard for **Atliq Technologies** based on employee attendance data.
 
-![Dashboard Screenshot](./Assets/dashboard_screenshot.png)
-
 ---
 
 ## 🧠 Project Objective
