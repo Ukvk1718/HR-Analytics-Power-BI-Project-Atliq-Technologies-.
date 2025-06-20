@@ -61,7 +61,7 @@ Atliq Technologies is a software and data solutions company with:
 |------|-------------|
 | `AtliQ HR Analytics.pbix` | Power BI dashboard file |
 | `dashboard_screenshot.png` | Project dashboard image |
-| `Data Analyst Project (HR Analytics).pdf` | Project scope and background |
+| `Data Analyst Project (HR Analytics).pdf` | Project Report  |
 
 
 ---
