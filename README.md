@@ -69,4 +69,5 @@ Atliq Technologies is a software and data solutions company with:
 ## 📬 Contact
 
 I'm Uddhav Kokra, an 18-year-old aspiring data analyst passionate about using data for decision-making.
-🧑‍💻 Connect with me on LinkedIn | 🐙 GitHub
+🧑‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/uddhavkokra) | 🐙 [GitHub](https://github.com/Ukvk1718)
+
