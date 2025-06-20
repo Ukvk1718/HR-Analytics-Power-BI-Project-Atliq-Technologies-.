@@ -59,7 +59,7 @@ Atliq Technologies is a software and data solutions company with:
 
 | File | Description |
 |------|-------------|
-| `HR_Analytics_Atliq.pbix` | Power BI dashboard file |
+| `HR Analytics Atliq_masked.pbix` | Power BI dashboard file |
 | `dashboard_screenshot.png` | Project dashboard image |
 | `Data Analyst Project (HR Analytics).pdf` | Project scope and background |
 
@@ -68,15 +68,5 @@ Atliq Technologies is a software and data solutions company with:
 
 ## 📬 Contact
 
-For feedback, collaboration, or freelance work, feel free to reach out:
-
-- 📧 Email: [uddhavkokra1718@gmail.com]
-
----
-
-## ⭐ Showcase Tagline
-
-> *"Turning data into people-centric decisions with visual insights!"*
-
-
-
+I'm Uddhav Kokra, an 18-year-old aspiring data analyst passionate about using data for decision-making.
+🧑‍💻 Connect with me on LinkedIn | 🐙 GitHub
